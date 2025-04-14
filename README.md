@@ -61,7 +61,7 @@ This submission **directly fulfills** every item from Gametime Hero's criteria:
 1. Clone or unzip the project:
 
 ```bash
-git clone <repo-url>  # (if uploaded)
+git clone https://github.com/parag1912/GameTimeHero  
 ```
 
 2. Install dependencies:
